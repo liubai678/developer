@@ -1,24 +1,19 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiuBai|FullStack|前端技术爱好者|jekyll blog|GitHub blog"
-description:      "前端技术爱好者|欢迎来到 LiuBai 的博客"
+title:            "LiuBai|FullStack|前端技术爱好者"
+description:      "前端技术爱好者|欢迎来到 liubai 的博客"
 url:              https://liubai678.github.io # 域名
 signoff:          "LiuBai" # Your name
-facebook_appid:   #LiuBai
-google_analytics: UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
-paginate_path: "liberxuepage:num"
+paginate_path: "liubai:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
     url:          /
     external:     false
-  - name:         书籍
+  - name:         笔记
     url:          /book
-    external:     false
-  - name:         旅游
-    url:          /road
     external:     false
   - name:         归档
     url:          /archives
